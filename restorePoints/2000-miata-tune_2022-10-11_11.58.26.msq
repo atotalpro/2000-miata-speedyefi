@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Oct 11 13:36:06 CDT 2022"/>
+<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: User Requested Save of Settings - &lt;br&gt;" writeDate="Tue Oct 11 11:58:26 CDT 2022"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+202207" nPages="15" signature="speeduino 202207"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -636,8 +636,8 @@
 <page number="1" size="288">
 <constant cols="16" digits="0" name="veTable" rows="16" units="%">
          32.0 38.0 44.0 41.0 38.0 24.0 19.0 18.0 26.0 36.0 38.0 37.0 37.0 40.0 41.0 41.0 
-         33.0 43.0 45.0 45.0 45.0 47.0 44.0 38.0 39.0 43.0 45.0 44.0 44.0 47.0 44.0 44.0 
-         36.0 43.0 45.0 51.0 52.0 53.0 53.0 55.0 48.0 50.0 51.0 51.0 51.0 54.0 52.0 52.0 
+         33.0 41.0 40.0 45.0 45.0 47.0 44.0 38.0 39.0 43.0 45.0 44.0 44.0 47.0 44.0 44.0 
+         36.0 42.0 43.0 51.0 52.0 53.0 53.0 55.0 48.0 50.0 51.0 51.0 51.0 54.0 52.0 52.0 
          45.0 56.0 60.0 57.0 57.0 59.0 58.0 59.0 54.0 57.0 58.0 59.0 58.0 61.0 56.0 56.0 
          44.0 53.0 60.0 60.0 61.0 63.0 63.0 64.0 64.0 64.0 64.0 66.0 66.0 68.0 68.0 68.0 
          47.0 52.0 65.0 66.0 65.0 68.0 68.0 72.0 66.0 71.0 71.0 73.0 73.0 75.0 61.0 61.0 
@@ -1122,7 +1122,7 @@
          83.0 
          83.0 
          88.0 
-         88.0 
+         85.0 
       </constant>
 <constant cols="1" digits="0" name="iacCrankBins" rows="4" units="F">
          -40.014 
